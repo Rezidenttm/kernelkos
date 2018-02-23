@@ -1,5 +1,5 @@
 dofile('./bot/utils.lua')
-my = '497391069'
+my = '526959096'
 URL = require('socket.url')
 http = require('socket.http')
 https = require('ssl.https')
